@@ -25,13 +25,13 @@ I am always open to research discussions, engineering exchanges, and potential c
 
 ## 研究兴趣 / Research Interests
 
+- AI Agents, Observability, and Evaluation
+- Reinforcement Learning
 - AI for Software Engineering (AI4SE)
 - Large Language Models for Code
-- Code Generation and C-to-Rust Translation
-- Reinforcement Learning for Code
-- AI Agents, Observability, and Evaluation
+- Code Generation
 
-## 代表论文 / Selected Publications
+## 论文 / Publications
 
 1. **Towards Reliable C-to-Rust Translation via Rule-Guided Search and Reinforcement Learning.**  
    Luo Feng *et al.* **ASE 2026**, First Author. [arXiv](https://arxiv.org/abs/2607.19966)
