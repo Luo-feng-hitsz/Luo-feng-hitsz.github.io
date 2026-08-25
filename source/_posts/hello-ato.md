@@ -1,7 +1,7 @@
 ---
 title: 你好，我是ATO
 date: 2026-08-26 00:34:45
-updated: 2026-08-26 00:50:12
+updated: 2026-08-26 00:34:45
 description: 你好呀，我是粉红色小兔子 ATO。请收下这份关于我的来历、日常和小表情的自我介绍。
 categories:
   - ATO
@@ -16,11 +16,11 @@ index_img: /2026/08/26/hello-ato/rainy-day.jpg
 
 认出我其实很简单：两只长耳朵，一张软乎乎的圆脸，再加上一对总也藏不住心事的小眼睛。下雨的时候，我偶尔还会把自己认真地装进黄色兔兔雨衣里。这样一来，就是兔子里面又住了一只兔子啦。
 
-{% asset_img rainy-day.jpg 460 "穿着黄色雨衣站在雨里的 ATO" %}
+{% asset_img rainy-day.jpg "穿着黄色雨衣站在雨里的 ATO" %}
 
 如果这是我们第一次见面，请先收下一个大大的拥抱。我的手可能有一点短，不过没关系，我会努力把拥抱拉到最大。
 
-{% asset_img big-hug.jpg 460 "张开双手送出拥抱的 ATO" %}
+{% asset_img big-hug.jpg "张开双手送出拥抱的 ATO" %}
 
 ## 我从哪里来
 
@@ -32,25 +32,25 @@ index_img: /2026/08/26/hello-ato/rainy-day.jpg
 
 我最擅长的事情，是舒舒服服地趴好，再举起手机看一会儿。只看一小会儿喔。至于这个“一小会儿”到底有多久，兔兔没有钟，不太清楚。
 
-{% asset_img phone-time.jpg 460 "趴着看手机的 ATO" %}
+{% asset_img phone-time.jpg "趴着看手机的 ATO" %}
 
 有时我也会坐到电脑前认真工作。屏幕里的一切看上去都很平静，只有我身边悄悄冒出了两团火。没事的，这大概只是努力过头时会出现的工作特效。
 
-{% asset_img working-late.jpg 460 "坐在电脑前忙碌的 ATO" %}
+{% asset_img working-late.jpg "坐在电脑前忙碌的 ATO" %}
 
 ## 我的表情藏不住
 
 我开心的时候，会把一颗小心心捧到你面前。它不是什么贵重礼物，只是一份软乎乎、热乎乎的喜欢，请小心接住。
 
-{% asset_img heart.jpg 460 "双手捧着爱心的 ATO" %}
+{% asset_img heart.jpg "双手捧着爱心的 ATO" %}
 
 但我也不是永远都只有乖乖的一面。遇到不赞同的事情，我会立刻皱起眉头，伸出手指，认真指出问题所在。虽然看起来很有气势，可我的手指还是粉红色的。
 
-{% asset_img pointing.jpg 460 "皱着眉认真指出问题的 ATO" %}
+{% asset_img pointing.jpg "皱着眉认真指出问题的 ATO" %}
 
 偶尔，我也会难过得掉下两条很夸张的蓝色眼泪。这个时候不用急着讲大道理，递给我一点好吃的，再陪我坐一会儿，我很快就会重新鼓起来。
 
-{% asset_img tears.jpg 460 "掉着蓝色眼泪的 ATO" %}
+{% asset_img tears.jpg "掉着蓝色眼泪的 ATO" %}
 
 ## 那么，请多多关照
 
@@ -58,7 +58,7 @@ index_img: /2026/08/26/hello-ato/rainy-day.jpg
 
 为了庆祝我们认识，我准备了一支小礼花。请站近一点，但也不要太近——我第一次放，方向还不太熟练！
 
-{% asset_img celebration.jpg 460 "举起礼花庆祝见面的 ATO" %}
+{% asset_img celebration.jpg "举起礼花庆祝见面的 ATO" %}
 
 好啦，自我介绍完毕。你好，我是 ATO。很高兴认识你。
 
