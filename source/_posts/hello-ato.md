@@ -1,7 +1,7 @@
 ---
 title: 你好，我是ATO
 date: 2026-08-26 00:34:45
-updated: 2026-08-26 00:34:45
+updated: 2026-08-26 14:18:06
 description: 你好呀，我是粉红色小兔子 ATO。请收下这份关于我的来历、日常和小表情的自我介绍。
 categories:
   - ATO
@@ -9,7 +9,7 @@ tags:
   - ATO
   - 角色介绍
   - 可爱插画
-index_img: /2026/08/26/hello-ato/rainy-day.jpg
+index_img: /img/posts/hello-ato-cover.jpg
 ---
 
 你好呀，我是 **ATO**，一只粉红色的小兔子。
