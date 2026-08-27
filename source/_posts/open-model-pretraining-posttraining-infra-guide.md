@@ -12,6 +12,7 @@ tags:
   - 后训练
   - Agent RL
   - Infra
+math: true
 ---
 
 > 更新时间：2026-08-27（Asia/Hong_Kong）  
